@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--
+        The INTERNET permission is required for Flutter development.
+        It allows the Flutter tool to communicate with the running
+        application for debugging, hot reload, breakpoints, etc.
+    -->
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+</manifest>

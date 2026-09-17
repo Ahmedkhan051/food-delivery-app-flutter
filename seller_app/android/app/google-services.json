@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "25991115139",
+    "project_id": "foodhub-7e959",
+    "storage_bucket": "foodhub-7e959.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25991115139:android:c6c3e3e2c16ea10a6d46b6",
+        "android_client_info": {
+          "package_name": "com.harendra_prajapati_iphtech.seller_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZtFI-25u1KXAfgQ0AfQ9tP2-LUEFomvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
